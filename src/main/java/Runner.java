@@ -11,5 +11,5 @@ public class Runner {
         System.out.println("temperata w Celsjuszach = " + temperature);
     }
 
-    }
+
 }
