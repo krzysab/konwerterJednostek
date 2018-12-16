@@ -79,7 +79,6 @@ public class Runner {
                 int celcjusz = getNumber();
                 //System.out.printf("%d Celcjusza to %f Fahrenheita \n", celcjusz, celcjuszToFahrenheit(celcjusz));
                 System.out.print("Co dalej, wybierz 0 - 5: ");
-                System.out.print("Co dalej, wybierz 0 - 5: ");
                 choseMenu(getNumber());
                 break;
 
