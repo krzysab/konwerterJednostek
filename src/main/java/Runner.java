@@ -13,8 +13,6 @@ public class Runner {
 
     public static void main(String[] args) {
 
-        Runner runner = new Runner();
-
         Scanner scanner = new Scanner(System.in);
         System.out.println("podaj numer menu od 1 do 4 ");
         int menu = scanner.nextInt();
